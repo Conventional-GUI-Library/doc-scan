@@ -1117,7 +1117,7 @@ public class UserInterface
                                "authors", authors,
                                "translator-credits", _("translator-credits"),
                                //"website", "https://launchpad.net/doc-scan",
-                               "copyright", "Copyright © 2023 TGA Ltd.",
+                               "copyright", "Copyright © 2023 TGA.",
                                "license", license,
                                "wrap-license", true,
                                null);
