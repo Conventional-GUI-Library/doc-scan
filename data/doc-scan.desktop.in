@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Document Scanner
+_Comment=Scan Documents
+Exec=doc-scan
+Icon=scanner
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=tga;GTK;Graphics;Scanning;
+X-tga-Gettext-Domain=doc-scan

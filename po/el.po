@@ -1,0 +1,680 @@
+# Greek translation for doc-scan
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the doc-scan package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: doc-scan\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-08-20 05:36+0000\n"
+"PO-Revision-Date: 2010-09-26 11:25+0000\n"
+"Last-Translator: Christos Spyroglou <Unknown>\n"
+"Language-Team: Greek <el@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2010-10-22 04:47+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#. Radio button for cropping page to 4x6 inch
+#: ../data/doc-scan.ui.h:2
+msgid "4&#xD7;6"
+msgstr "4&#xD7;6"
+
+#. Radio button for cropping page to A4 size
+#: ../data/doc-scan.ui.h:4
+msgid "A_4"
+msgstr "A_4"
+
+#. Radio button for cropping page to A5 size
+#: ../data/doc-scan.ui.h:6
+msgid "A_5"
+msgstr "A_5"
+
+#. Radio button for cropping page to A6 size
+#: ../data/doc-scan.ui.h:8
+msgid "A_6"
+msgstr "A_6"
+
+#. Toolbar scan menu item to scan all pages from a document feeder
+#: ../data/doc-scan.ui.h:10
+msgid "All Pages From _Feeder"
+msgstr "Όλες τις σελίδες από την _τροφοδοσία"
+
+#. Combo box label for scanning the back side of a page
+#: ../data/doc-scan.ui.h:12
+msgid "Back"
+msgstr ""
+
+#: ../data/doc-scan.ui.h:13
+msgid "Crop"
+msgstr "Περικοπή"
+
+#: ../data/doc-scan.ui.h:14
+msgid "Crop the selected page"
+msgstr "Περικοπή της επιλεγμένης σελίδας"
+
+#. Combo box label for scanning the front side of a page
+#: ../data/doc-scan.ui.h:16
+msgid "Front"
+msgstr ""
+
+#. Combo box label for scanning both sides of a page
+#: ../data/doc-scan.ui.h:18
+msgid "Front and Back"
+msgstr ""
+
+#. Radio button for cropping to page to US legal size
+#: ../data/doc-scan.ui.h:20
+msgid "Le_gal"
+msgstr "Le_gal"
+
+#: ../data/doc-scan.ui.h:21
+msgid "New"
+msgstr "Νέο"
+
+#. Label beside page size combo box
+#: ../data/doc-scan.ui.h:23
+msgid "Page Size:"
+msgstr ""
+
+#. Combo box label for photo scan mode
+#: ../data/doc-scan.ui.h:25
+msgid "Photo"
+msgstr "Φωτογραφία"
+
+#. Title of preferences dialog
+#: ../data/doc-scan.ui.h:27
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#. Label on rotate page left (anti-clockwise) item
+#: ../data/doc-scan.ui.h:29
+msgid "Rotate Left"
+msgstr "Περιστροφή αριστερά"
+
+#. Label on rotate page right (clockwise) item
+#: ../data/doc-scan.ui.h:31
+msgid "Rotate Right"
+msgstr "Περιστροφή δεξιά"
+
+#. Menu item to rotate page to left (anti-clockwise)
+#: ../data/doc-scan.ui.h:33
+msgid "Rotate _Left"
+msgstr "Περιστροφή _αριστερά"
+
+#. Menu item to rotate page to right (clockwise)
+#: ../data/doc-scan.ui.h:35
+msgid "Rotate _Right"
+msgstr "Περιστροφή _δεξιά"
+
+#. Tooltip for rotate left (counter-clockwise) button
+#: ../data/doc-scan.ui.h:37
+msgid "Rotate the page to the left (counter-clockwise)"
+msgstr "Περιστροφή της σελίδας αριστερά"
+
+#. Tooltip for rotate right (clockwise) button
+#: ../data/doc-scan.ui.h:39
+msgid "Rotate the page to the right (clockwise)"
+msgstr "Περιστροφή της σελίδας δεξιά"
+
+#: ../data/doc-scan.ui.h:40
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#. Tooltip for save toolbar button
+#: ../data/doc-scan.ui.h:42
+msgid "Save document to a file"
+msgstr "Αποθήκευση εγγράφου σε αρχείο"
+
+#. Scan menu item
+#: ../data/doc-scan.ui.h:44
+msgid "Sc_an"
+msgstr "_Σάρωση"
+
+#. Label on scan toolbar item
+#: ../data/doc-scan.ui.h:46
+msgid "Scan"
+msgstr "Σάρωση"
+
+#. Label beside scan source combo box
+#: ../data/doc-scan.ui.h:48
+msgid "Scan S_ource:"
+msgstr "_Πηγή σάρωσης:"
+
+#. Label beside scan side combo box
+#: ../data/doc-scan.ui.h:50
+msgid "Scan Side:"
+msgstr ""
+
+#. Tooltip for scan toolbar button
+#: ../data/doc-scan.ui.h:52
+msgid "Scan a single page from the scanner"
+msgstr "Σάρωση μίας σελίδας από τον σαρωτή"
+
+#. Title of scan window
+#: ../data/doc-scan.ui.h:54 ../data/doc-scan.desktop.in.h:2
+msgid "Doc Scan"
+msgstr "Σάρωση"
+
+#. Toolbar scan menu item to scan a single page from the scanner
+#: ../data/doc-scan.ui.h:56
+msgid "Single _Page"
+msgstr "_Μία σελίδα"
+
+#. Tooltip for new document button
+#: ../data/doc-scan.ui.h:58
+msgid "Start a new document"
+msgstr "Δημιουργία νέου εγγράφου"
+
+#: ../data/doc-scan.ui.h:59
+msgid "Stop"
+msgstr "Διακοπή"
+
+#. Tooltip for stop button
+#: ../data/doc-scan.ui.h:61
+msgid "Stop the current scan"
+msgstr "Διακοπή τρέχουσας σάρωσης"
+
+#. Combo box label for text scan mode
+#: ../data/doc-scan.ui.h:63
+msgid "Text"
+msgstr "Κείμενο"
+
+#. Button to submit authorization dialog
+#: ../data/doc-scan.ui.h:65
+msgid "_Authorize"
+msgstr "_Εξουσιοδότηση"
+
+#. Help|Contents menu
+#: ../data/doc-scan.ui.h:67
+msgid "_Contents"
+msgstr "_Περιεχόμενα"
+
+#. Label for page crop submenu
+#: ../data/doc-scan.ui.h:69
+msgid "_Crop"
+msgstr "_Περικοπή"
+
+#. Radio button for cropping to custom page size
+#: ../data/doc-scan.ui.h:71
+msgid "_Custom"
+msgstr "_Προσαρμοσμένο"
+
+#. Label on document menu (contains actions for this document, e.g. save, print)
+#: ../data/doc-scan.ui.h:73
+msgid "_Document"
+msgstr "Έ_γγραφο"
+
+#. Label on email menu item
+#: ../data/doc-scan.ui.h:75
+msgid "_Email"
+msgstr "_Email"
+
+#. Label on help menu
+#: ../data/doc-scan.ui.h:77
+msgid "_Help"
+msgstr "_Βοήθεια"
+
+#. Radio button for cropping page to US letter size
+#: ../data/doc-scan.ui.h:79
+msgid "_Letter"
+msgstr "_Letter"
+
+#. Radio button for no crop
+#: ../data/doc-scan.ui.h:81
+msgid "_None"
+msgstr "_Κανένα"
+
+#. Page menu (contains action for each page, e.g. delete, crop)
+#: ../data/doc-scan.ui.h:83
+msgid "_Page"
+msgstr "_Σελίδα"
+
+#. Label beside password entry
+#: ../data/doc-scan.ui.h:85
+msgid "_Password:"
+msgstr "_Κωδικός:"
+
+#. Label beside scan source combo box
+#: ../data/doc-scan.ui.h:87
+msgid "_Photo Resolution:"
+msgstr "Ανάλυση _φωτογραφίας:"
+
+#. Menu item to rotate the crop area
+#: ../data/doc-scan.ui.h:89
+msgid "_Rotate Crop"
+msgstr "_Περιστροφή περικοπής"
+
+#. Menu entry to stop current scan
+#: ../data/doc-scan.ui.h:91
+msgid "_Stop Scan"
+msgstr "_Διακοπή σάρωσης"
+
+#. Label beside scan source combo box
+#: ../data/doc-scan.ui.h:93
+msgid "_Text Resolution:"
+msgstr "Ανάλυση _κειμένου:"
+
+#. Label beside username entry
+#: ../data/doc-scan.ui.h:95
+msgid "_Username for resource:"
+msgstr "Όνομα _χρήστη για πόρο:"
+
+#: ../data/doc-scan.desktop.in.h:1
+msgid "Scan Documents"
+msgstr "Σάρωση εγγράφων"
+
+#: ../data/doc-scan.schemas.in.h:1
+msgid "Device to scan from"
+msgstr "Συσκευή που χρησιμοποιείται για σάρωση"
+
+#: ../data/doc-scan.schemas.in.h:2
+msgid "Direction of scan"
+msgstr "Κατεύθυνση σάρωσης"
+
+#: ../data/doc-scan.schemas.in.h:3
+msgid "Directory to save files to"
+msgstr "Κατάλογος στον οποίο θα αποθηκευτούν τα αρχεία"
+
+#: ../data/doc-scan.schemas.in.h:4
+msgid "Height of paper in tenths of a mm"
+msgstr ""
+
+#: ../data/doc-scan.schemas.in.h:5
+msgid "Height of scanned image in pixels"
+msgstr "Ύψος εικόνας σάρωσης σε εικονοστοιχεία"
+
+#: ../data/doc-scan.schemas.in.h:6
+msgid "Page side to scan"
+msgstr ""
+
+#: ../data/doc-scan.schemas.in.h:7
+msgid "Resolution for photo scans"
+msgstr "Ανάλυση για σάρωση φωτογραφιών"
+
+#: ../data/doc-scan.schemas.in.h:8
+msgid "Resolution for text scans"
+msgstr "Ανάλυση για σάρωση κειμένου"
+
+#: ../data/doc-scan.schemas.in.h:9
+msgid "Resolution of last scanned image"
+msgstr "Ανάλυση τελευταίας σαρωμένης εικόνας"
+
+#: ../data/doc-scan.schemas.in.h:10
+msgid "SANE device to acquire images from."
+msgstr "Συσκευή SANE που χρησιμοποιείται για την λήψη εικόνων."
+
+#: ../data/doc-scan.schemas.in.h:11
+msgid "TRUE if the application window is maximized"
+msgstr "ΑΛΗΘΕΣ αν το παράθυρο της εφαρμογής είναι μεγιστοποιημένο"
+
+#: ../data/doc-scan.schemas.in.h:12
+msgid ""
+"The direction of the scanner across the scanned page. It can be one of the "
+"following: 'top-to-bottom' 'bottom-to-top' 'left-to-right' 'right-to-left'"
+msgstr ""
+"Η κατεύθυνση του σαρωτή κατά μήκος της σαρωμένης σελίδας. Μπορεί να είναι "
+"κάποιο από τα εξής: 'top-to-bottom' (από πάνω προς τα κάτω) 'bottom-to-top' "
+"(από κάτω προς τα πάνω) 'left-to-right' (από αριστερά προς δεξιά) 'right-to-"
+"left' (από δεξιά προς αριστερά)"
+
+#: ../data/doc-scan.schemas.in.h:13
+msgid ""
+"The directory to save files to. Defaults to the documents directory if unset."
+msgstr ""
+"Ο κατάλογος στον οποίο θα αποθηκευτούν τα αρχεία. Αν δεν ορισθεί, προεπιλογή "
+"είναι ο κατάλογος εγγράφων."
+
+#: ../data/doc-scan.schemas.in.h:14
+msgid ""
+"The height of scanned image in pixels. This value is updated to what the "
+"last scanned page was."
+msgstr ""
+"Το ύψος της σαρωμένης εικόνας σε εικονοστοιχεία. Η τιμή αυτή ενημερώνεται με "
+"το ύψος της τελευταίας σαρωμένης σελίδας."
+
+#: ../data/doc-scan.schemas.in.h:15
+msgid ""
+"The height of the paper in tenths of a mm (or 0 for automatic paper "
+"detection)."
+msgstr ""
+
+#: ../data/doc-scan.schemas.in.h:16
+msgid ""
+"The page side to scan. It can be one of the following: 'both' 'front' 'back'"
+msgstr ""
+
+#: ../data/doc-scan.schemas.in.h:17
+msgid "The resolution in dots-per-inch of the previously scanned image."
+msgstr "Η ανάλυση σε κουκκίδες ανά ίντσα της προηγούμενης σαρωμένης εικόνας."
+
+#: ../data/doc-scan.schemas.in.h:18
+msgid "The resolution in dots-per-inch to use when scanning photos."
+msgstr ""
+"Η ανάλυση σε κουκκίδες ανά ίντσα που θα χρησιμοποιηθεί στην σάρωση "
+"φωτογραφιών."
+
+#: ../data/doc-scan.schemas.in.h:19
+msgid "The resolution in dots-per-inch to use when scanning text."
+msgstr ""
+"Η ανάλυση σε κουκκίδες ανά ίντσα που θα χρησιμοποιηθεί στην σάρωση κειμένων."
+
+#: ../data/doc-scan.schemas.in.h:20
+msgid ""
+"The width of scanned image in pixels. This value is updated to what the last "
+"scanned page was."
+msgstr ""
+"Το πλάτος της σαρωμένης εικόνας σε εικονοστοιχεία. Η τιμή αυτή ενημερώνεται "
+"με το πλάτος της τελευταίας σαρωμένης σελίδας."
+
+#: ../data/doc-scan.schemas.in.h:21
+msgid ""
+"The width of the paper in tenths of a mm (or 0 for automatic paper "
+"detection)."
+msgstr ""
+
+#: ../data/doc-scan.schemas.in.h:22
+msgid "Type of document being scanned"
+msgstr "Ο τύπος του εγγράφου που σαρώνεται"
+
+#: ../data/doc-scan.schemas.in.h:23
+msgid ""
+"Type of document being scanned. 'text' for text documents, 'photo' for "
+"photos. This setting decides on the scan resolution, colors and post-"
+"processing."
+msgstr ""
+"Ο τύπος του εγγράφου που σαρώνεται. 'text' για έγγραφα κειμένου, 'photo' για "
+"φωτογραφίες. Αυτή η ρύθμιση καθορίζει την ανάλυση σάρωσης, τα χρώματα και τη "
+"μετέπειτα επεξεργασία."
+
+#: ../data/doc-scan.schemas.in.h:24
+msgid "Width of paper in tenths of a mm"
+msgstr ""
+
+#: ../data/doc-scan.schemas.in.h:25
+msgid "Width of scanned image in pixels"
+msgstr "Πλάτος της σαρωμένης εικόνας σε εικονοστοιχεία"
+
+#: ../data/doc-scan.schemas.in.h:26
+msgid "Window height in pixels"
+msgstr "Ύψος παραθύρου σε εικονοστοιχεία"
+
+#: ../data/doc-scan.schemas.in.h:27
+msgid "Window width in pixels"
+msgstr "Πλάτος παραθύρου σε εικονοστοιχεία"
+
+#. Error displayed when no scanners to scan with
+#: ../src/scanner.c:889
+msgid "No scanners available.  Please connect a scanner."
+msgstr "Δεν υπάρχουν διαθέσιμοι σαρωτές. Παρακαλούμε συνδέστε ένα σαρωτή."
+
+#. Error displayed when cannot connect to scanner
+#: ../src/scanner.c:916
+msgid "Unable to connect to scanner"
+msgstr "Αδύνατη η σύνδεση με τον σαρωτή"
+
+#. Error display when unable to start scan
+#: ../src/scanner.c:1222
+msgid "Unable to start scan"
+msgstr "Αδύνατη η εκκίνηση της σάρωσης"
+
+#. Error displayed when communication with scanner broken
+#: ../src/scanner.c:1240 ../src/scanner.c:1346
+msgid "Error communicating with scanner"
+msgstr "Σφάλμα κατά την επικοινωνία με τον σαρωτή"
+
+#. Title of error dialog when scan failed
+#: ../src/doc-scan.c:265
+msgid "Failed to scan"
+msgstr "Η σάρωση απέτυχε"
+
+#. Default filename to use when saving document (and extension will be added, e.g. .jpg)
+#: ../src/doc-scan.c:283
+msgid "Scanned Document"
+msgstr "Σαρωμένο"
+
+#. Description on how to use doc-scan displayed on command-line
+#: ../src/doc-scan.c:426
+#, c-format
+msgid ""
+"Usage:\n"
+"  %s [DEVICE...] - Scanning utility"
+msgstr ""
+"Χρήση:\n"
+"  %s [ΣΥΣΚΕΥΗ...] - Εφαρμογή σάρωσης"
+
+#. Description on how to use doc-scan displayed on command-line
+#: ../src/doc-scan.c:434
+#, c-format
+msgid ""
+"Help Options:\n"
+"  -d, --debug                     Print debugging messages\n"
+"  -v, --version                   Show release version\n"
+"  -h, --help                      Show help options\n"
+"  --help-all                      Show all help options\n"
+"  --help-gtk                      Show GTK+ options"
+msgstr ""
+"Επιλογές βοήθειας:\n"
+"  -d, --debug Εμφάνιση μηνυμάτων αποσφαλμάτωσης\n"
+"  -v, --version Εμφάνιση αριθμού έκδοσης\n"
+"  -h, --help Εμφάνιση επιλογών βοήθειας\n"
+"  --help-all Εμφάνιση όλων των επιλογών βοήθειας\n"
+"  --help-gtk Εμφάνιση επιλογών GTK+"
+
+#. Description on doc-scan command-line GTK+ options displayed on command-line
+#: ../src/doc-scan.c:446
+#, c-format
+msgid ""
+"GTK+ Options:\n"
+"  --class=CLASS                   Program class as used by the window "
+"manager\n"
+"  --name=NAME                     Program name as used by the window "
+"manager\n"
+"  --screen=SCREEN                 X screen to use\n"
+"  --sync                          Make X calls synchronous\n"
+"  --gtk-module=MODULES            Load additional GTK+ modules\n"
+"  --g-fatal-warnings              Make all warnings fatal"
+msgstr ""
+"Επιλογές GTK+:\n"
+"  --class=CLASS                   Κλάση προγράμματος χρησιμοποιούμενη από το "
+"διαχειριστή παραθύρων\n"
+"  --name=NAME                     Όνομα προγράμματος χρησιμοποιούμενο από το "
+"διαχειριστή παραθύρων\n"
+"  --screen=SCREEN                 Οθόνη X προς χρήση\n"
+"  --sync                          Να είναι σύγχρονες οι κλήσεις στο X\n"
+"  --gtk-module=MODULES            Φόρτωση πρόσθετων αρθρωμάτων GTK+\n"
+"  --g-fatal-warnings              Να είναι όλες οι προειδοποιήσεις μοιραίες"
+
+#. Label in authorization dialog.  '%s' is replaced with the name of the resource requesting authorization
+#: ../src/ui.c:151
+#, c-format
+msgid "Username and password required to access '%s'"
+msgstr "Απαιτείται όνομα χρήστη και κωδικός για την πρόσβαση στο '%s'"
+
+#. Warning displayed when no scanners are detected
+#: ../src/ui.c:200
+msgid "No scanners detected"
+msgstr "Δεν ανιχνεύθηκαν σαρωτές"
+
+#. Hint to user on why there are no scanners detected
+#: ../src/ui.c:202
+msgid "Please check your scanner is connected and powered on"
+msgstr ""
+"Παρακαλούμε βεβαιωθείτε ότι ο σαρωτής σας είναι συνδεδεμένος και σε "
+"λειτουργία"
+
+#. Save dialog: Label for saving in PDF format
+#: ../src/ui.c:382
+msgid "PDF (multi-page document)"
+msgstr "PDF (έγγραφο πολλαπλών σελίδων)"
+
+#. Save dialog: Label for saving in JPEG format
+#: ../src/ui.c:384
+msgid "JPEG (compressed)"
+msgstr "JPEG (συμπιεσμένο)"
+
+#. Save dialog: Label for saving in PNG format
+#: ../src/ui.c:386
+msgid "PNG (lossless)"
+msgstr "PNG (δίχως συμπίεση)"
+
+#. Save dialog: Dialog title
+#: ../src/ui.c:398
+msgid "Save As..."
+msgstr "Αποθήκευση ως..."
+
+#. Save dialog: Filter name to show only image files
+#: ../src/ui.c:414
+msgid "Image Files"
+msgstr "Αρχεία εικόνων"
+
+#. Save dialog: Filter name to show all files
+#: ../src/ui.c:421
+msgid "All Files"
+msgstr "Όλα τα αρχεία"
+
+#. 
+#: ../src/ui.c:426
+msgid "Select File _Type"
+msgstr "Επιλογή _τύπου αρχείου"
+
+#. Title of error dialog when save failed
+#: ../src/ui.c:524
+msgid "Failed to save file"
+msgstr "Αποτυχία αποθήκευσης του αρχείου"
+
+#. Text in dialog warning when a document is about to be lost
+#: ../src/ui.c:552
+msgid "If you don't save, changes will be permanently lost."
+msgstr ""
+
+#. Text in dialog warning when a document is about to be lost
+#: ../src/ui.c:594
+msgid "Save current document?"
+msgstr ""
+
+#. Button in dialog to create new document and discard unsaved document
+#: ../src/ui.c:596
+msgid "Discard Changes"
+msgstr ""
+
+#. Error message display when unable to preview image
+#: ../src/ui.c:950
+msgid "Unable to open image preview application"
+msgstr "Αδύνατο το άνοιγμα της εφαρμογής προβολής εικόνων"
+
+#. Error message displayed when unable to launch help browser
+#: ../src/ui.c:1246
+msgid "Unable to open help file"
+msgstr "Αδύνατο το άνοιγμα του αρχείου βοήθειας"
+
+#. The license this software is under (GPL3+)
+#: ../src/ui.c:1261
+msgid ""
+"This program is free software: you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation, either version 3 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program.  If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+"Αυτό το πρόγραμμα είναι ελεύθερο λογισμικό: Επιτρέπεται η αναδιανομή ή/και "
+"τροποποίησή του υπό τους όρους της Γενικής Άδειας Δημόσιας Χρήσης GNU (GNU "
+"General Public License), όπως αυτή έχει δημοσιευτεί από το Ίδρυμα Ελεύθερου "
+"Λογισμικού (Free Software Foundation) – είτε της έκδοσης 3 της Άδειας, είτε "
+"(κατ' επιλογήν) οποιασδήποτε μεταγενέστερης έκδοσης.\n"
+"\n"
+"Το πρόγραμμα αυτό διανέμεται με την ελπίδα ότι θα αποδειχθεί χρήσιμο, παρόλα "
+"αυτά ΧΩΡΙΣ ΚΑΜΙΑ ΕΓΓΥΗΣΗ – χωρίς ούτε και την σιωπηρή εγγύηση "
+"ΕΜΠΟΡΕΥΣΙΜΟΤΗΤΑΣ ή ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ ΓΙΑ ΣΥΓΚΕΚΡΙΜΕΝΗ ΧΡΗΣΗ. Για περισσότερες "
+"λεπτομέρειες ανατρέξτε στη Γενική Άδεια Δημόσιας Χρήσης GNU (GNU General "
+"Public License).\n"
+"\n"
+"Θα πρέπει να έχετε λάβει ένα αντίγραφο της Γενικής Άδειας Δημόσιας Χρήσης "
+"GNU (GNU General Public License) μαζί με αυτό το πρόγραμμα. Εάν όχι, δείτε "
+"εδώ: <http://www.gnu.org/licenses/>."
+
+#. Title of about dialog
+#: ../src/ui.c:1275
+msgid "About Document Scanner"
+msgstr "Περί Σάρωσης"
+
+#. Description of program
+#: ../src/ui.c:1278
+msgid "Document scanning tool"
+msgstr "Απλό εργαλείο σάρωσης εγγράφων"
+
+#: ../src/ui.c:1287
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Alex Ferguson https://launchpad.net/~thoughtmonster\n"
+"  Christos Spyroglou https://launchpad.net/~cspyroglou\n"
+"  Jennie Petoumenou https://launchpad.net/~jennie\n"
+"  Thanos Lefteris https://launchpad.net/~alefteris"
+
+#. Text in dialog warning when a document is about to be lost
+#: ../src/ui.c:1305
+msgid "Save document before quitting?"
+msgstr ""
+
+#. Button in dialog to quit and discard unsaved document
+#: ../src/ui.c:1307
+msgid "Quit without Saving"
+msgstr ""
+
+#. Preferences dialog: Label for minimum resolution in resolution list
+#: ../src/ui.c:1449
+#, c-format
+msgid "%d dpi (draft)"
+msgstr "%d dpi (πρόχειρο)"
+
+#. Preferences dialog: Label for resolution value in resolution list (dpi = dots per inch)
+#: ../src/ui.c:1451 ../src/ui.c:1452 ../src/ui.c:1453 ../src/ui.c:1456
+#, c-format
+msgid "%d dpi"
+msgstr "%d dpi"
+
+#. Preferences dialog: Label for maximum resolution in resolution list
+#: ../src/ui.c:1455
+#, c-format
+msgid "%d dpi (high resolution)"
+msgstr "%d dpi (υψηλή ανάλυση)"
+
+#. Preferences dialog: Label for default resolution in resolution list
+#: ../src/ui.c:1478
+#, c-format
+msgid "%d dpi (default)"
+msgstr "%d dpi (προεπιλογή)"
+
+#. Title of dialog when cannot load required files
+#: ../src/ui.c:1523
+msgid "Files missing"
+msgstr "Λείπουν αρχεία"
+
+#. Description in dialog when cannot load required files
+#: ../src/ui.c:1525
+msgid "Please check your installation"
+msgstr "Παρακαλούμε ελέγξτε την εγκατάσταση σας"
+
+#. Button in error infobar to open preferences dialog and change scanner
+#: ../src/ui.c:1582
+msgid "Change _Scanner"
+msgstr "Αλλαγή _σαρωτή"
+
+#. Combo box value for automatic paper size
+#: ../src/ui.c:1588
+msgid "Automatic"
+msgstr ""
+
+#: ../src/ui.c:1866
+msgid "Scanned Document.pdf"
+msgstr "Σαρωμένο.pdf"
