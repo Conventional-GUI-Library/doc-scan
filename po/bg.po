@@ -155,8 +155,8 @@ msgstr "Сканиране на"
 
 #. Title of scan window
 #: ../data/doc-scan.ui.h:54 ../data/doc-scan.desktop.in.h:2
-msgid "Doc Scan"
-msgstr "Опростено сканиране"
+msgid "Document Scanner"
+msgstr "Скенер за документи"
 
 #. Toolbar scan menu item to scan a single page from the scanner
 #: ../data/doc-scan.ui.h:56

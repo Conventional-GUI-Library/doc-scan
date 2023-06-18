@@ -155,13 +155,13 @@ msgstr "امسح صفحة مفردة من الماسحة"
 
 #. Title of scan window
 #: ../data/doc-scan.ui.h:54 ../data/doc-scan.desktop.in.h:2
-msgid "Doc Scan"
+msgid "Document Scanner"
 msgstr "مسح بسيط"
 
 #. Toolbar scan menu item to scan a single page from the scanner
 #: ../data/doc-scan.ui.h:56
 msgid "Single _Page"
-msgstr "صفحة مفردة"
+msgstr "صفحة مفماسح ضوئي للوثائق"
 
 #. Tooltip for new document button
 #: ../data/doc-scan.ui.h:58
