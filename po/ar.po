@@ -572,12 +572,15 @@ msgstr ""
 #. Title of about dialog
 #: ../src/ui.c:1275
 msgid "About Document Scanner"
-msgstr "عن \"المسح البسيط\""
+msgstr "حول الماسح الضوئي المستند"
 
 #. Description of program
 #: ../src/ui.c:1278
 msgid "Document scanning tool"
-msgstr "أداة بسيطة لمسح المستندات"
+msgstr "أداة مسح المستندات"
+
+msgid "Copyright © 2023 TGA"
+msgstr "حقوق النشر © 2023 TGA"
 
 #: ../src/ui.c:1287
 msgid "translator-credits"

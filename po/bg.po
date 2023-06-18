@@ -604,12 +604,12 @@ msgstr ""
 #. Title of about dialog
 #: ../src/ui.c:1275
 msgid "About Document Scanner"
-msgstr "Относно Опростено сканиране"
+msgstr "Относно скенера за документи"
 
 #. Description of program
 #: ../src/ui.c:1278
 msgid "Document scanning tool"
-msgstr "Инструмент за опростено сканиране на документи"
+msgstr "Инструмент за сканиране на документи"
 
 #: ../src/ui.c:1287
 msgid "translator-credits"
@@ -619,6 +619,9 @@ msgstr ""
 "  Svetoslav Stefanov https://launchpad.net/~svetlisashkov\n"
 "  i.raynov https://launchpad.net/~ivaylo-raynov\n"
 "  Филип Андонов https://launchpad.net/~vonodna"
+
+msgid "Copyright © 2023 TGA"
+msgstr "Авторско право © 2023 TGA"
 
 #. Text in dialog warning when a document is about to be lost
 #: ../src/ui.c:1305
