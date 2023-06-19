@@ -19,6 +19,7 @@ When built, you can use the "install" target to install doc-scan onto your syste
 
 ## Dependencies
 This project depends on:
+- [`Vala (valac)`](https://vala.dev/) 
 - [`GTK+ 3.0 (libgtk-3-dev)`](https://www.gtk.org/)
 - [`GUdev (libgudev-1.0-dev)`](https://gitlab.gnome.org/GNOME/libgudev/)
 - [`GnomeCommon (gnome-common)`](https://wiki.gnome.org/Projects/GnomeCommon)
